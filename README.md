@@ -3,6 +3,8 @@
 # Disclaimer
 These are quick utilities I wrote for my own use — they may be useful for others, but they come without warranty.
 
+---
+
 # waterdeletor.c
 
 This program is designed to remove water molecules (oxygen and associated hydrogens) from a PDB file that are within a specified cutoff distance from the center of the simulation box. It is particularly useful for processing water molecules that are near the box center, which may be unnecessary for certain types of simulations or analyses.
