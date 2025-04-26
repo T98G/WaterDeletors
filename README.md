@@ -1,7 +1,7 @@
 # WaterDeletors
 
 # Disclaimer
-This is a quick utility I wrote for my own use — it may be useful for others, but it comes without warranty.
+These are quick utilities I wrote for my own use — they may be useful for others, but they come without warranty.
 
 # waterdeletor.c
 
